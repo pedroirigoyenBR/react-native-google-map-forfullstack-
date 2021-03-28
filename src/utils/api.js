@@ -1,0 +1,1 @@
+export const api_url = "http://gisrealestate.com/rest/backend/web/mandatelist/"
